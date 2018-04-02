@@ -1,7 +1,8 @@
 package salesforce;
 
 import ballerina/io;
-import wso2/oauth2;
+//import wso2/oauth2;
+import oauth2;
 
 
 public struct SalesforceConfiguration {

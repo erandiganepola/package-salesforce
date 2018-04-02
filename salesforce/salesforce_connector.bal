@@ -21,7 +21,8 @@ package salesforce;
 import ballerina/net.http;
 import ballerina/mime;
 import ballerina/io;
-import wso2/oauth2;
+//import wso2/oauth2;
+import oauth2;
 
 @Description {value:"Salesforce Client Connector"}
 public struct SalesforceConnector {
